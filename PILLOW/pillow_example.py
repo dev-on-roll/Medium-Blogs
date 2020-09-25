@@ -53,6 +53,17 @@ def rotate_image():
     img = img.transpose(Image.FLIP_LEFT_RIGHT)
     # saving image
     img.save('rotated_image.png')
+    
+def blend_images():
+    width = height = 500
+    #reading image
+    img = Image.open('my_image.png')
+    img = img.resize((width,height))
+    img2 = Image.open('pattern_image.png')
+    img2 = img2.resize((width,height))
+    # blend images together ...
+    op_image = Image.blend(img,img2,0.4)
+    op_image.save('blended_image.png')    
 
 
 if __name__ == '__main__':
@@ -62,3 +73,4 @@ if __name__ == '__main__':
     #resize_image()
     #add_filters()
     #rotate_image()
+    #blend_images()
