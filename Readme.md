@@ -1,6 +1,6 @@
 ## Software Developement and Data Science Blogs 
 
-I prefer to write and document my SDE journey along the way. This repository consists of a curated list and material for all the blogs I write in my free time. It helps me remember all the essential concepts required to learn to develop applications, packages, and software systems. It's a  way of giving it back to the community.
+I prefer to write and document my SDE journey along the way. This repository consists of a curated list and material for all the blogs I write in my free time. It helps me stay productive, creative, and remember all the essential concepts required to learn to develop applications, packages, and software systems. You can consider it a way of giving it back to the community.
 
 - [7 Python Libraries Every Back-End Developer Should Know](https://levelup.gitconnected.com/7-python-libraries-every-back-end-developer-should-know-95862dada91a) ( Nov 14 2020 )
 
