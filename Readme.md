@@ -2,6 +2,8 @@
 
 I prefer to write and document my SDE journey along the way. This repository consists of a curated list and material for all the blogs I write in my free time. It helps me stay productive, creative, and remember all the essential concepts required to learn to develop applications, packages, and software systems. You can consider it a way of giving it back to the community.
 
+- [Developing Data Web App Using Streamlit](https://www.analyticsvidhya.com/blog/2021/04/developing-data-web-streamlit-app/) (April 13 2021)
+
 - [7 Python Libraries Every Back-End Developer Should Know](https://levelup.gitconnected.com/7-python-libraries-every-back-end-developer-should-know-95862dada91a) ( Nov 14 2020 )
 
 - [How to learn to program from Donald Trump’s Tweet (includes code)](https://levelup.gitconnected.com/how-to-learn-to-program-from-donald-trumps-tweet-includes-code-a35dbc33bce1) ( Nov 12 2020 )
