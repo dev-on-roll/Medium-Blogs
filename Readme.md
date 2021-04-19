@@ -2,7 +2,11 @@
 
 I prefer to write and document my SDE journey along the way. This repository consists of a curated list and material for all the blogs I write in my free time. It helps me stay productive, creative, and remember all the essential concepts required to learn to develop applications, packages, and software systems. You can consider it a way of giving it back to the community.
 
-- [Developing Data Web App Using Streamlit](https://www.analyticsvidhya.com/blog/2021/04/developing-data-web-streamlit-app/) (April 13 2021)
+- [Top React Native Libraries To Boost Developer Productivity](https://javascript.plainenglish.io/top-react-native-libraries-to-boost-developer-productivity-718e016cbdb) ( April 15 2021 ) 
+
+- [How to implement Animation as JSON in a React App](https://javascript.plainenglish.io/how-to-implement-animation-as-json-in-a-react-app-includes-code-df179f8c88a4) ( April 14 2021 )
+
+- [Developing Data Web App Using Streamlit](https://www.analyticsvidhya.com/blog/2021/04/developing-data-web-streamlit-app/) ( April 13 2021 )
 
 - [7 Python Libraries Every Back-End Developer Should Know](https://levelup.gitconnected.com/7-python-libraries-every-back-end-developer-should-know-95862dada91a) ( Nov 14 2020 )
 
